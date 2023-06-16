@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=b3c5ff&height=100&section=header&text=&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=2000&color=CACACA&center=true&vCenter=true&repeat=false&width=800&lines=Hi%2C+I'm+Hye+Yeon+%F0%9F%8C%8A)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a1b6fb&height=120&animation=fadeIn&section=footer&text=MobileDeveloper&fontAlign=85&fontSize=20&fontAlignY=80&fontColor=383837)
 
 <!--
 **hxeyexn/hxeyexn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
