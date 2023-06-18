@@ -32,6 +32,9 @@
 | 대외활동/ <br> 동아리 | 멋쟁이 사자처럼 대학 10기 | 백엔드 트랙 | Back-end <br> (Django) | 수료 | 2022 |
 
 <br>
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C8D1FD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 <!--
