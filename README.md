@@ -31,6 +31,8 @@
 | 대회 | 멋쟁이 사자처럼 대학 10기 해커톤 | Re:act (은퇴 후 제 2의 삶을 위한 플랫폼) | Back-end <br> (Django) | 상위 우수 <br> 15팀 선정 | 2022 |
 | 대외활동/ <br> 동아리 | 멋쟁이 사자처럼 대학 10기 | 백엔드 트랙 | Back-end <br> (Django) | 수료 | 2022 |
 
+<br>
+
 </div>
 <!--
 **hxeyexn/hxeyexn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
