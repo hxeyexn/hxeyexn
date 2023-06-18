@@ -1,22 +1,44 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b3c5ff&height=100&section=header&text=&fontSize=90)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=2000&color=CACACA&center=true&vCenter=true&repeat=false&width=900&lines=Hi%2C+I'm+Hye+Yeon+%F0%9F%8C%8A)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a1b6fb&height=120&animation=fadeIn&section=footer&text=Mobile%20Developer&fontAlign=85&fontSize=20&fontAlignY=80&fontColor=383837)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=a1b6fb&height=120&animation=fadeIn&section=footer&text=MobileDeveloper&fontAlign=85&fontSize=20&fontAlignY=80&fontColor=383837)
-
+<br>
+<br>
 
 <div align="center"> 
-  
-## 🛠️ Teck Stack
+
+## About Me 🦋
+[![Velog](https://img.shields.io/badge/Velog-20C997\?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@hxeyexn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hxeyexn)
+
+<br>
+<br>
+
+## Teck Stack 🛠️
   
 </div>
 
 <div align="center"> 
   
-![](https://img.shields.io/badge/Kotlin-7F52FF\?&style=for-the-badge&logo=Kotlin&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) ![](https://img.shields.io/badge/firebase-FFCA28\?&style=for-the-badge&logo=firebase&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB\?&style=for-the-badge&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Django-092E20\?&style=for-the-badge&logo=Django&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1\?&style=for-the-badge&logo=MySQL&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF\?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28\?&style=for-the-badge&logo=firebase&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB\?&style=for-the-badge&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20\?&style=for-the-badge&logo=Django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1\?&style=for-the-badge&logo=MySQL&logoColor=white) 
 
 </div>
 
+<br>
+<br>
+
+<div align="center"> 
+  
+## Activities 📚
+
+</div>
+
+| **Type** | **Activity** | **Contents** | **Role** | **Achieve** | Date |
+| :------: | :------: | :------: | :------: | :------: | :------: |
+| 부트캠프 | 멋쟁이 사자처럼 앱 스쿨 2기 | 앱 스쿨 2기 : 안드로이드 | Android <br> (Kotlin) | 활동 중 | 2023 |
+| 대회 | KIT Engineering Fair 2022 | 비콘을 이용한 치매환자 배회 감지 및 보행자 안전을 위한 <br> 스마트 신호등 시스템 | Android <br> (Java) | 동상 | 2022 |
+| 대회 | 멋쟁이 사자처럼 대학 10기 해커톤 | Re:act (은퇴 후 제 2의 삶을 위한 플랫폼) | Back-end <br> (Django) | 상위 우수 <br> 15팀 선정 | 2022 |
+| 대외활동/ <br> 동아리 | 멋쟁이 사자처럼 대학 10기 | 백엔드 트랙 | Back-end <br> (Django) | 수료 | 2022 |
 
 <!--
 **hxeyexn/hxeyexn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
