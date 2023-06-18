@@ -15,6 +15,7 @@
 <br>
 
 ## About Me 🦋
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kck85075@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997\?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@hxeyexn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hxeyexn)
 
