@@ -7,16 +7,16 @@
 <br>
 <br>
 
-## About Me 🦋
-[![Velog](https://img.shields.io/badge/Velog-20C997\?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@hxeyexn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hxeyexn)
-
-<br>
-<br>
-
 ## Teck Stack 🛠️
   
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF\?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28\?&style=for-the-badge&logo=firebase&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB\?&style=for-the-badge&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20\?&style=for-the-badge&logo=Django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1\?&style=for-the-badge&logo=MySQL&logoColor=white) 
+
+<br>
+<br>
+
+## About Me 🦋
+[![Velog](https://img.shields.io/badge/Velog-20C997\?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@hxeyexn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hxeyexn)
 
 <br>
 <br>
