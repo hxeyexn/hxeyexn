@@ -7,6 +7,13 @@
 <br>
 <br>
 
+## Tech Stack 🛠️
+  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF\?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28\?&style=for-the-badge&logo=firebase&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB\?&style=for-the-badge&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20\?&style=for-the-badge&logo=Django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1\?&style=for-the-badge&logo=MySQL&logoColor=white) 
+
+<br>
+<br>
+
 ## About Me 🦋
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kck85075@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997\?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@hxeyexn)
@@ -15,13 +22,6 @@
 <br>
 <br>
 
-## Tech Stack 🛠️
-  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF\?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28\?&style=for-the-badge&logo=firebase&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB\?&style=for-the-badge&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20\?&style=for-the-badge&logo=Django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1\?&style=for-the-badge&logo=MySQL&logoColor=white) 
-
-<br>
-<br>
-  
 ## Activities 📚
 
 | **Type** | **Activity** | **Contents** | **Role** | **Achieve** | Date |
