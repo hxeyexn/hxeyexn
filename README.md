@@ -9,9 +9,7 @@
 
 ## 🛠️ Tech Stack 🛠️
   
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF\?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28\?&style=for-the-badge&logo=firebase&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB\?&style=for-the-badge&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20\?&style=for-the-badge&logo=Django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1\?&style=for-the-badge&logo=MySQL&logoColor=white) 
-
-<br>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF\?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28\?&style=for-the-badge&logo=firebase&logoColor=white)
 <br>
 
 ## 🦋 About Me 🦋
@@ -25,7 +23,7 @@
 
 | **Type** | **Activity** | **Contents** | **Role** | **Achieve** | Date |
 | :------: | :------: | :------: | :------: | :------: | :------: |
-| 교육 | 우아한테크코스 | 모바일 안드로이드 6기 | Android <br> (Kotlin) | 참여 중 | 2024 |
+| 교육 | 우아한테크코스 | 모바일 안드로이드 6기 | Android <br> (Kotlin) | 수료 | 2024 |
 | 교육 | 멋쟁이 사자처럼 앱 스쿨 1기 | TECH!T 앱 스쿨 1기 : 안드로이드 | Android <br> (Kotlin) | 수료 | 2023 |
 | 대회 | KIT Engineering Fair 2022 | 비콘을 이용한 치매환자 배회 감지 및 <br> 보행자 안전을 위한 스마트 신호등 시스템 | Android <br> (Java) | 동상 | 2022 |
 | 대회 | 멋쟁이 사자처럼 대학 10기 해커톤 | Re:act (은퇴 후 제 2의 삶을 위한 플랫폼) | Back-end <br> (Django) | 상위 우수 <br> 15팀 선정 | 2022 |
