@@ -9,13 +9,7 @@
 
 ## 🛠️ Tech Stack 🛠️
   
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF\?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28\?&style=for-the-badge&logo=firebase&logoColor=white)
-<br>
-
-## 🦋 About Me 🦋
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kck85075@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997\?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@hxeyexn)
-
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF\?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 <br>
 <br>
 
