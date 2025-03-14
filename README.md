@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=2000&color=CACACA&vCenter=true&repeat=false&width=400&lines=Hi%2C+I'm+Hye+Yeon+🦋)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=2000&color=CACACA&vCenter=true&repeat=false&width=900&lines=Hi%2C+I'm+Hye+Yeon+🦋)](https://git.io/typing-svg)  
 Android Mobile App Developer 
 
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/kck85075" width="600" height="300"/></a>
