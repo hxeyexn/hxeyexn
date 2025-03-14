@@ -15,6 +15,7 @@
 |**[KIT Engineering Fair 2022](https://boatneck-badger-d19.notion.site/KIT-Engineering-Fair-2022-f3f3ab998eae4971b4741b35daa37b97?pvs=4)**<br>2022.03 - 2022.12| • [비콘을 이용한 치매 환자 배회 감지 및 보행자 안전을 위한 스마트 신호등 시스템 출품, 동상 수상](https://boatneck-badger-d19.notion.site/Co-exist-93a0e449c1f740ff998d7dea4883577b?pvs=4)(역할: 보호자용 앱 Co-exist 개발) <br> • 특허 출원(공개 특허) |
 |**[멋쟁이사자처럼 대학 동아리 10기 Backend(Django)](https://boatneck-badger-d19.notion.site/LIKELION-UNIVERSITY-10TH-facf77bdcb3148cd91eba856db3cb121?pvs=4)**<br>2022.03 - 2022.12| • Django와 Django Rest Framework를 학습<br> • 전국 대학생 해커톤 참여(Re:act 출품 및 상위 우수 15팀 선정) |
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/kck85075" width="600" height="300"/></a>
 <!--
 **hxeyexn/hxeyexn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
